@@ -32,7 +32,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>192.168.3.67</string>
+			<string>192.168.3.232</string>
 			<key>ProxyServerPort</key>
 			<integer>7890</integer>
 			<key>ProxyType</key>
@@ -42,7 +42,7 @@
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>XMLVPN2</string>
+	<string>XMLVPN3</string>
 	<key>PayloadIdentifier</key>
 	<string>wudeiMac.BC9F759D-DB99-4123-8605-68C1EB0DBFAF</string>
 	<key>PayloadRemovalDisallowed</key>
